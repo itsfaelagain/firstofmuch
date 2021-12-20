@@ -1,2 +1,2 @@
-# firstofmuch
+# firstofmany
 just studying
